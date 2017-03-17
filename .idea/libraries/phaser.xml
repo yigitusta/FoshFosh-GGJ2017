@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="phaser" type="javaScript">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/js/phaser.js" />
+    </CLASSES>
+    <DOCUMENTATION>
+      <root url="https://phaser.io/docs/2.6.2/index" />
+    </DOCUMENTATION>
+    <SOURCES />
+  </library>
+</component>
